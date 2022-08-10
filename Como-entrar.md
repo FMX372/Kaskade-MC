@@ -28,3 +28,4 @@ Inicio de sesión:
 Ahora, cada vez que entres tendrás que iniciar sesión para poder jugar.
 - Iniciar Sesión: Escribe en el chat: `/login <contraseña>`
 - - - - - - - - - - - 
+En consola puede ser difícil escribir todo esto así que puedes intentar copiarlo y pegarlo o usar un teclado.
