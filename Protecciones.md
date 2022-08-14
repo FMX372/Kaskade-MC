@@ -26,6 +26,7 @@ Si haces click derecho con el palo en tu claim podrás ver cuánto ocupa, tambi�
 
 #### Quitar todos los permisos a un jugador
 `Untrust <nombre del jugador>`
+`/Untrust All` Quita los permisos a todos
 
 #### Activar / Desactivar las explosiones en tu claim
 `/ClaimExplosions`
