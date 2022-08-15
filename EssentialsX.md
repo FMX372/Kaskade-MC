@@ -13,5 +13,11 @@ Si quieres ir a donde esté alguien, puedes hacerlo con /tpa.
 
 - Escribe en el chat `/tpa <nombre del jugador>`
 - El jugador verá que quieres ir a donde está el:
-- Para aceptar escribirá `/tpa accept`
-- Para rechazar escribirá `/tpa cancel`
+- Para aceptar escribirá `/tpaccept`
+- Para rechazar escribirá `/tpdeny`
+>¡Tienes que quedarte quieto para el teletransporte!
+
+## Mensajes privados
+¿Quieres decir algo a alguien sin que todos lo lean?
+
+- Escribe en el chat `/msg <nombre del jugador> <texto>`
