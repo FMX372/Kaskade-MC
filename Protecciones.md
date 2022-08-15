@@ -3,7 +3,7 @@
 
 ## Protección Básica
 
->Usa el comando `/kit` para elegir el kit de protección y conseguir una pala de oro, y un palo :D
+>Usa el comando `/kit claim` para conseguir una pala de oro, y un palo :D
 - - -
 ### ![img](https://media.discordapp.net/attachments/1004710896037273700/1007773790362669138/IMG_20220812_233143_4_16x16.png) Pala de oro
 
