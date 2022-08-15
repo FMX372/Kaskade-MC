@@ -6,6 +6,7 @@ Puedes tener hasta 3 casas a las que teletransportarte (obvio puedes hacer esto 
 
 - Sitúate donde quieres tener tu casa y escribe en el chat `/sethome <nombre de tu casa>` 
 - Ahora cada vez que quieras ir allí, solo escribe `/home <nombre de tu casa>`
+- Para borrar una ubicación de casa, usa `/delhome <nombre de tu casa>`
 
 ## TP a jugadores
 Si quieres ir a donde esté alguien, puedes hacerlo con /tpa.
