@@ -12,7 +12,8 @@ Puedes tener hasta 3 casas a las que teletransportarte (obvio puedes hacer esto 
 Si quieres ir a donde esté alguien, puedes hacerlo con /tpa.
 
 - Escribe en el chat `/tpa <nombre del jugador>`
-- El jugador verá que quieres ir a donde está el:
+
+El jugador verá que quieres ir a donde está el:
 - Para aceptar escribirá `/tpaccept`
 - Para rechazar escribirá `/tpdeny`
 >¡Tienes que quedarte quieto para el teletransporte!
