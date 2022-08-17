@@ -1,4 +1,4 @@
-# Kaskade-MC
+# ![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009454669787045918/KaskadeBanner.png)
 Tutorial para entender cómo funciona Kaskade MC
 
 ## [Cómo entrar](https://github.com/FMX372/Kaskade-MC/blob/main/Como-entrar.md)
