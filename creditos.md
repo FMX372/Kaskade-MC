@@ -1,0 +1,5 @@
+![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009531309711962203/PurpurMC.png)
+![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009533880040173578/GeyserMCbanner.png)
+![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009535706919620669/ViaVersionBanner.png)
+![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009531283510140989/Matrixbanner.png)
+![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009536516701294682/EssentialsXBanner.png)
