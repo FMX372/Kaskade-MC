@@ -22,3 +22,6 @@ El jugador verá que quieres ir a donde está el:
 ¿Quieres decir algo a alguien sin que todos lo lean?
 
 - Escribe en el chat `/msg <nombre del jugador> <texto>`
+
+## ¿Atrapado?
+Si no sabes donde estás, no puedes hacer TP a tu casa o vete a saber qué, siempre puedes usar el comando `/spawn` que te llevará al lobby altoke.
