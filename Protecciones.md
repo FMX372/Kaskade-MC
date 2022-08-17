@@ -1,4 +1,4 @@
-# PROTECCIONES / CLAIMS 
+# ![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009452215875936357/GriefPreventionBanner.png)
 ¡Aprende a proteger tu terreno de robos, destrucción y atentados!
 
 ## Protección Básica
