@@ -1,4 +1,4 @@
-# CÓMO ENTRAR 
+# ![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009529359138304030/Comorlentro.png) 
 Puedes entrar al servidor con Minecraft Java (Premium/No Premium) y Minecraft Bedrock. 
 
 ## ![img](https://cdn.discordapp.com/attachments/1004710896037273700/1006956157602123967/JavaLogo.png) Java 
