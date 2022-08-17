@@ -9,3 +9,6 @@ Protegete de robos y atentados.
 
 ## [EssentialsX](https://github.com/FMX372/Kaskade-MC/blob/main/EssentialsX.md)
 ¡Teletransportate a tu casa, otros jugadores y más!
+
+## [Créditos](https://github.com/FMX372/Kaskade-MC/blob/main/creditos.md)
+Los plugins más importantes que usa el server <3
