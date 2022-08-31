@@ -2,7 +2,7 @@
 Básicamente el motor del server, está basado en PaperMC y me ha dado buenos resultados.
 
 ![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009533880040173578/GeyserMCbanner.png)
-Hace que los de Bedrock puedan convivir conos de Java :D
+Hace que los de Bedrock puedan convivir con los de Java :D
 
 ![logo](https://cdn.discordapp.com/attachments/1004710917759586406/1009535706919620669/ViaVersionBanner.png)
 Este plugin junto con ViaBackwards hacen que se pueda jugar desde la versión 1.9 hasta la 1.19.x
